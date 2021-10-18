@@ -1,6 +1,6 @@
 import requests
 
-from pprint import pp, pprint
+from pprint import pprint
 
 import json
 
